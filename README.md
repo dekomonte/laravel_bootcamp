@@ -5,7 +5,6 @@ From [Bootcamp page](https://bootcamp.laravel.com/), we'll build a microblogging
 
 ### Blade
 Chosen technology: Blade. </br>
-
 Blade is the simple templating engine that is included with Laravel. </br>
 
 ### Tinker
