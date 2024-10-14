@@ -4,9 +4,11 @@ From [Bootcamp page](https://bootcamp.laravel.com/), we'll build a microblogging
 
 
 ### Blade
-Chosen technology: _Blade_.
+Chosen technology: **Blade**. </br>
 
-Blade is the simple templating engine that is included with Laravel. 
+Blade is the simple templating engine that is included with Laravel. </br>
 
 #### Tinker
-Laravel Tinker is a powerful REPL for the Laravel Framework.
+Laravel Tinker is a powerful REPL for the Laravel Framework. </br>
+**Tinker** allows you to interact with your entire Laravel application on the command line.
+ 
