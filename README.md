@@ -7,3 +7,6 @@ From [Bootcamp page](https://bootcamp.laravel.com/), we'll build a microblogging
 Chosen technology: _Blade_.
 
 Blade is the simple templating engine that is included with Laravel. 
+
+#### Tinker
+Laravel Tinker is a powerful REPL for the Laravel Framework.
