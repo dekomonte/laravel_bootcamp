@@ -1,6 +1,8 @@
 # Laravel Bootcamp
 
-From [Bootcamp page](https://bootcamp.laravel.com/), we'll build a microblogging platform called *Chirper*.
+From [Bootcamp page](https://bootcamp.laravel.com/), we'll build a microblogging platform called *Chirper*. </br>
+
+You will be able to create, edit and delete *Chirps*.
 
 
 ### Blade
