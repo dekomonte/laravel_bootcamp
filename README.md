@@ -19,7 +19,6 @@ Tinker allows you to interact with your entire Laravel application on the comman
 Página de login:
 ![Exemplo](/imagens/login.png)
 
-
 Dashboard:
 ![Exemplo](/imagens/dashboard.png)
 
