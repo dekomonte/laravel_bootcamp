@@ -16,11 +16,11 @@ Tinker allows you to interact with your entire Laravel application on the comman
 ***
 ### Visualização
 
-Página de login:
+Página de login: </br>
 ![Exemplo](/imagens/login.png)
 
 Dashboard:
 ![Exemplo](/imagens/dashboard.png)
 
 Microblogging:
-![Exemplo](/imagens/dashboard.png)
+![Exemplo](/imagens/blog.png)
